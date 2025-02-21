@@ -12,5 +12,4 @@ if( ! env.BRANCH_NAME.equalsIgnoreCase('main')){
 }
 else{
     echo "This is PRODUCTION, deal with CR process"
-    
 }
